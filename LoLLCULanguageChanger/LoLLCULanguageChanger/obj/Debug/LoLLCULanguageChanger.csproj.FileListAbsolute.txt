@@ -1,0 +1,6 @@
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\obj\Debug\LoLLCULanguageChanger.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\bin\Debug\lolex.exe.config
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\bin\Debug\lolex.exe
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\bin\Debug\lolex.pdb
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\obj\Debug\lolex.exe
+D:\Users\Documents\Gits\GarenaLoLLCU-Language-Auto-Changer\LoLLCULanguageChanger\LoLLCULanguageChanger\obj\Debug\lolex.pdb

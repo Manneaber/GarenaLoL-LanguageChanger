@@ -7,7 +7,7 @@
     <ProjectGuid>{63C1801B-3F15-446E-B9E8-DEBBCF273226}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LoLLCULanguageChanger</RootNamespace>
-    <AssemblyName>LoLLCULanguageChanger</AssemblyName>
+    <AssemblyName>lolex</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
